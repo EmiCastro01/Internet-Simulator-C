@@ -16,15 +16,6 @@ For setting debug mode of Simulator
 
 The simulator tool has access to the netowrk, so it can modify, execute, run, send pages, print maps, etc.
 
-# Compile de Project
-
-For execute the project execute this operations at repository root:
-
-## Install g++ Compiler
-
-```
-sudo apt install g++
-```
 ## Compile the Project & Execute
 
 ```
