@@ -1,7 +1,7 @@
 # TP FINAL AYED
 
-In this project, user can simulate an Internet Network system. The system can manage every machine, like routers or terminals, send data in pages, see how routers divides the pages on several packets, see the net congestion, etc.
-The software uses an Dikjstra algorithm to determinate the most rapid route for sending data from one machine to another.
+In this project, user can simulate an Internet Network system (TCP-like). The system can manage every machine, as routers or terminals, send data in pages, see how routers divides the pages on several packets, see the network congestion, etc.
+The software uses an Dikjstra algorithm to determinate the most efficient path for sending data from one router to another.
 The user can edit:
 
 ### config.json File
